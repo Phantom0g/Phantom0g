@@ -4,6 +4,14 @@ Hi there! 👋 I'm **Oluwaseun Adeosun**, a social media manager, content strate
 
 I help brands grow their communities, communicate clearly and turn ideas into campaigns, partnerships and events. My experience spans travel, entertainment, hospitality and lifestyle brands. I'm also learning cybersecurity and exploring how technology can support better business workflows.
 
+## 🚀 Featured Projects
+
+| Project | What you can explore |
+| --- | --- |
+| [Marketing Case Studies](marketing-case-studies/README.md) | Expedia Consult and The Big Bhang, using a Problem → Action → Result format |
+| [Content Strategy Toolkit](content-strategy-toolkit/README.md) | An example two-week calendar, reporting template and partnership proposal framework |
+| [Cybersecurity Learning](cybersecurity-learning/README.md) | Beginner security notes, a runnable local HTTP/API lab and a learning log |
+
 ## 📣 Social Media & Content Strategy
 
 - **Platforms:** Instagram, TikTok, Facebook and X (Twitter)
